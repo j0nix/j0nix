@@ -1,5 +1,5 @@
 ### j0nix
-![OneBeerToRuleThemAll](img/melleruds)
+![OneBeerToRuleThemAll](img/melleruds.png)
 
 <!--
 **j0nix/j0nix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
