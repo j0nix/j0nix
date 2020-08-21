@@ -1,6 +1,5 @@
 ![OneBeerToRuleThemAll](https://github.com/j0nix/j0nix/blob/master/img/melleruds_beer.png)
-
-```
+```bash
 	[j0nix]$ pinky -l $(whoami)
 	 Login name: j0nix                      In real life:  Jon Svendsen
 	 Directory: /home/j0nix                 Shell:  /bin/bash
