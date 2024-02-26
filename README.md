@@ -7,13 +7,17 @@
 </br>
 <details>
   <summary><b>Level up your python development environment</b></summary>
-
-## Ubuntu 
+</br>
+</br>
 It's all about Python and virtual environments. The "old way" is you fiddle:ing with [virtualenv](https://docs.python.org/3/library/venv.html) so you can separate your python development setup from your systems. But if you are like me, I always forget that `source venv/bin/activate` and suddenly you're messing up your system with all those `pip install random-package`.
 
 Hence [Direnv](https://direnv.net/) ...
 
 > **From the manual:** "direnv is an extension for your shell. It augments existing shells with a new feature that can load and unload environment variables depending on the current directory".
+</br>
+</br>
+
+## Ubuntu 
 
 ### Install Direnv 
 `sudo apt-get install direnv` or `curl -sfL https://direnv.net/install.sh | bash`
