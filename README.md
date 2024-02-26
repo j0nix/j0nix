@@ -2,9 +2,11 @@
 <a href="https://github.com/j0nix">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=j0nix&theme=dark&hide_title=true" />
 </a>
-
-
-## Ubuntu: Level up your python development environment
+</br>
+</br>
+</br>
+<details>
+  <summary>Ubuntu: Level up your python development environment</summary>
 
 It's all about Python and virtual environments. The "old way" is you fiddle:ing with [virtualenv](https://docs.python.org/3/library/venv.html) so you can separate your python development setup from your systems. But if you are like me, I always forget that `source venv/bin/activate` and suddenly you're messing up your system with all those `pip install random-package`.
 
@@ -111,6 +113,6 @@ pyenv install 3.11.2
 echo 'layout pyenv 3.11.2' > .envrc
 direnv allow
 ```
-
+</details>
 
 __j0nix__
