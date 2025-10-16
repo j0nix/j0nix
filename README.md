@@ -96,10 +96,6 @@ project git:(master) ✗ which python
   /home/j0nix/j0nix/.direnv/python-3.11.2/bin/python
 ```
 
-**finish up installing ansible**
-```
-pip install ansible ansible-lint
-```
 
 ### Quickguide for Fedora
 ```
