@@ -1,7 +1,4 @@
-## &nbsp;&nbsp;j0nix
-<a href="https://github.com/j0nix">
-<div style="margin-left: 25px;padding:25px"><img src="img/melleruds.png" /></div>
-</a>
+<div style="margin-left: 25px;padding:25px"><img src="img/Designer.png" height="500px"/></div>
 </br>
 </br>
 </br>
