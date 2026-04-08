@@ -1,4 +1,4 @@
-<div style="margin-left: 25px;padding:25px"><img src="img/Designer.png" height="500px"/></div>
+<div width="600"><center><div style="margin-left: 25px;padding:25px"><img src="img/Designer.png" height="500px"/></div></center></div>
 </br>
 </br>
 </br>
