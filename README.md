@@ -1,6 +1,5 @@
-<div width="600"><center><div style="margin-left: 25px;padding:25px"><img src="img/Designer.png" height="500px"/></div></center></div>
-</br>
-</br>
+&nbsp;&nbsp;&nbsp;<div><img src="img/Designer.png" height="300px"/></div>
+
 </br>
 <details>
   <summary><b>Level up your python development environment</b></summary>
